@@ -1,4 +1,11 @@
 ### Hi there 👋
+✔  I am a full stack web developer and works on MERN stack technology
+
+## Few Projects of mine is 🎂✨
+- 
+
+✔ I love writing about tech stack and currently working as afreelance technical writer
+ 
 
 <!--
 **ghulamrabbani883/ghulamrabbani883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
