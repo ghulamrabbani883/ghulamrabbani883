@@ -1,14 +1,14 @@
-### Hi there 👋
-✔  I am a full stack web developer and works on MERN stack technology
+## Hi there 👋
 
-## Few Projects of mine is 🎂✨
-- 
+### ☞ I am a full stack web developer and works on MERN stack technologies
 
-✔ I love writing about tech stack and currently working as afreelance technical writer
+### ☞ I love writing about tech stack and currently working as a freelance technical writer
+- #### My few writings you can check on "https://geekflare.com/author/ghulam/" and "https://ghulamrabbani883.hashnode.dev/"
+
  
 
 <!--
-**ghulamrabbani883/ghulamrabbani883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ghulamrabbani883/ghulamrabbani883** is a ✨ _special_ ✨ repository because its `README(☞ﾟヮﾟ)☞.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
