@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### ☞ I am a full stack web developer and works on MERN stack technologies
+### ☞ I am a full stack web developer working with MERN stack technologies
 
-### ☞ I love writing about tech stack and currently working as a freelance technical writer
+### ☞ I love writing about tech stack 
 - #### My few writings you can check on "https://geekflare.com/author/ghulam/" and "https://ghulamrabbani883.hashnode.dev/"
 
  
