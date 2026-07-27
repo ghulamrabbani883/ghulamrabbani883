@@ -1,6 +1,6 @@
 # Ghulam Rabbani — Software Engineer (MERN)
 
-A full-stack MERN engineer with **2.8+ years** of experience, currently leading development and architecture planning at **Klaimify**. I design scalable systems, optimize performance, and mentor teams with a strong focus on clean code, efficient state management, and delightful UX.
+A full-stack MERN engineer with **3.4+ years** of experience, currently leading development and architecture planning at **Klaimify**. I design scalable systems, optimize performance, and mentor teams with a strong focus on clean code, efficient state management, and delightful UX.
 
 [🌐 Portfolio](https://ghulamrabbani.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/ghulamrabbani883) • [🐙 GitHub](https://github.com/ghulamrabbani883) • [✉️ Email](mailto:ghulamrabbani883@gmail.com)
 
